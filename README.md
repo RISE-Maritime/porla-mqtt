@@ -12,9 +12,11 @@ N/A
 ### 3rd-party tools
 
 * **mqtt-cli**
+
   See https://github.com/MO-RISE/mqtt-cli
 
 * **mosquitto_sub** and **mosuitto_pub**
+
   See https://mosquitto.org/man/mosquitto_sub-1.html and https://mosquitto.org/man/mosquitto_pub-1.html
 
 ## Usage
