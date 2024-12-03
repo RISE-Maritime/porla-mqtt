@@ -1,5 +1,5 @@
 # porla-mqtt
-This is an extension to [`porla`](https://github.com/MO-RISE/porla)
+This is an extension to [`porla`](https://github.com/rise-maritime/porla)
 
 ## What
 
