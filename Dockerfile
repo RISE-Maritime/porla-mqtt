@@ -1,4 +1,4 @@
-FROM ghcr.io/mo-rise/porla:v0.4.1
+FROM ghcr.io/rise-maritime/porla:v0.4.1
 
 RUN apt-get update && apt-get install -y \
     mosquitto-clients \
